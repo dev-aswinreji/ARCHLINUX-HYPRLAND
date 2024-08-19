@@ -11,6 +11,9 @@ font-size=24
 # ignore empty password entry
 ignore-empty-password
 
+# 
+#screenshot
+
 # indicator modification 
 indicator-radius=120
 indicator-thickness=20
