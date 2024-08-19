@@ -1,0 +1,26 @@
+daemonize
+show-failed-attempts
+
+# background image
+image=~/.wallpapers/swaylock-wallpaper/luffy-1.jpg
+
+# text color and font
+text-color=000000
+font-size=24
+
+# ignore empty password entry
+ignore-empty-password
+
+# indicator modification 
+indicator-radius=120
+indicator-thickness=20
+inside-color=808080
+inside-clear-color=D3D3D3
+inside-caps-lock-color=808080
+inside-ver-color=D3D3D3
+inside-wrong-color=808080
+ring-color=D3D3D3
+ring-clear-color=808080
+ring-caps-lock-color=D3D3D3
+ring-ver-color=808080
+ring-wrong-color=D3D3D3

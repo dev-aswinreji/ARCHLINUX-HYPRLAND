@@ -186,6 +186,7 @@ label:focus {
 }
 
 #network {
+    font-weight: bold;
     background-color: #2980b9;
 }
 
